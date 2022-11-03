@@ -1,9 +1,6 @@
 
 这是关于我生活的每周日志，你可以看到我每周都在做什么。
 
-This repository is a collection of weekly logs of my life.
-You can check what I did last week.
-
 # 2022
 
 ## Week 44 
