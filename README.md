@@ -25,3 +25,4 @@
 2022/11/07 - 2022/11/13
 - 这周过的很艰难，身心俱惨
 - 成马因为调整了参赛人员的范围，导致中签，但最近训练量不够，稍微感到有些担心
+- 对 contribute heatmap 相关的 repository 很感兴趣，开始研究 [ssr-contributions-img](https://github.com/CatsJuice/ssr-contributions-img) 这个项目
