@@ -27,3 +27,4 @@
 - 成马因为调整了参赛人员的范围，导致中签，但最近训练量不够，稍微感到有些担心
 - 对 contribute heatmap 相关的 repository 很感兴趣，开始研究 [ssr-contributions-img](https://github.com/CatsJuice/ssr-contributions-img) 这个项目
 - 把家里的一些大件家具搬到中德的房子里，给生活带来一些变化，最大的好处是我们将要有书房了
+- 周日跑了赛前的一个 15km 长距离，感觉良好
