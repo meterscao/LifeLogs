@@ -1,0 +1,25 @@
+{
+  "name": "lifelogs",
+  "version": "1.0.0",
+  "description": "My open life logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meterscao/LifeLogs.git"
+  },
+  "author": "xiaofeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meterscao/LifeLogs/issues"
+  },
+  "homepage": "https://github.com/meterscao/LifeLogs#readme",
+  "dependencies": {
+    "copyfiles": "^2.4.1",
+    "ejs": "^3.1.8",
+    "marked": "^4.2.3"
+  }
+}
