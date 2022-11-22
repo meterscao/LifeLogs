@@ -20,7 +20,6 @@ const getMarkdownString = function (markdownPath) {
             }
         });
     })
-
 }
 
 const parseMarkdown = function (markdownString) {
