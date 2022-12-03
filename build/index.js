@@ -2,8 +2,8 @@ const marked = require('marked')
 const ejs = require('ejs')
 const fs = require("fs")
 
-const markdownPath = './posts/2022.md'
-const templatePath = './theme/template/main.ejs'
+const markdownPath = './weeks/2022.md'
+const templatePath = './src/template/main.ejs'
 const outputPath = './public/index.html'
 
 const getMarkdownString = function (markdownPath) {
