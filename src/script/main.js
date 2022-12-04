@@ -1,3 +1,3 @@
-import "../style/main.css"
+import "../style/main.less"
 
 console.log('Hello Weekly Logs')
